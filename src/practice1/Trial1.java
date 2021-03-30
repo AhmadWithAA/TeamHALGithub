@@ -8,6 +8,9 @@ public class Trial1 {
 		System.out.println(" papi bossy");
 		System.out.println("Responding to mami");
 		System.out.println("New Line");
+
+		int age = 28;
+		System.out.println(age);
 	}
 
 }
